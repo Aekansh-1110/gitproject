@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-08T08:37:05 IST" name="Default suite" finished-at="2024-04-08T08:37:06 IST" duration-ms="721">
+    <groups>
+    </groups>
+    <test started-at="2024-04-08T08:37:05 IST" name="Default test" finished-at="2024-04-08T08:37:06 IST" duration-ms="721">
+      <class name="TestNg.practice">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestNg.practice@433defed]" started-at="2024-04-08T08:36:46 IST" name="setUp" finished-at="2024-04-08T08:37:05 IST" duration-ms="18696" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="login()[pri:0, instance:TestNg.practice@433defed]" started-at="2024-04-08T08:37:05 IST" name="login" finished-at="2024-04-08T08:37:06 IST" duration-ms="646" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- TestNg.practice -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
